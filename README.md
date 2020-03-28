@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RajaOngkir CodeIgniter
 Merupakan library CodeIgniter untuk mengkonsumsi API dari [RajaOngkir](http://rajaongkir.com).
 ## Instalasi
@@ -26,3 +27,7 @@ Response yang dihasilkan berupa string JSON balasan dari RajaOngkir.
 Silakan lihat code di dalam library, di dalamnya terdapat komentar yang dapat membantu Anda.
 ### Referensi
 [Dokumentasi RajaOngkir](http://rajaongkir.com/dokumentasi)
+=======
+# rajaongkir-codeigniter
+Library CodeIgniter untuk mengkonsumsi API RajaOngkir
+>>>>>>> cc14576f103ba0c795fa6fd3cd2db767a65e6e89
